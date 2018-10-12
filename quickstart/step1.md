@@ -2,6 +2,18 @@
 
 ## Task
 
-首先执行脚手架：
+1. 首先执行脚手架，一路回车：
 
 `npx egg-init showcase --type=simple`{{execute}}
+
+2. 安装依赖：
+
+`cd showcase && npm i`{{execute}}
+
+3. 启动：
+
+`npm run dev`{{execute}}
+
+4. 访问页面
+
+https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/

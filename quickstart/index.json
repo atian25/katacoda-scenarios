@@ -18,8 +18,13 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uilayout": "editor-terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n",
+    "showdashboard": true,
+    "dashboards": [{
+      "name": "访问页面",
+      "port": 7001
+    }]
   },
   "backend": {
     "imageid": "node"
