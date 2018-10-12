@@ -8,9 +8,9 @@
 
 ## Task
 
-1. 右上的编辑器，打开 `app/controller/home.js` 文件
+- 右上的编辑器，打开 `app/controller/home.js` 文件
 
-2. 修改下 `ctx.body` 的返回
+- 修改下 `ctx.body` 的返回
 
 <pre class="file" data-filename="app.js" data-target="replace">
 
@@ -27,4 +27,4 @@ class HomeController extends Controller {
 module.exports = HomeController;
 </pre>
 
-3. Egg 会自动重启，现在刷新下页面再看看
+- Egg 会自动重启，现在刷新下页面再看看

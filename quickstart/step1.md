@@ -6,13 +6,13 @@
 
 ## Task
 
-1. 首先执行脚手架，一路回车：`npx egg-init showcase --type=simple`{{execute}}
+- 首先执行脚手架，一路回车：`npx egg-init showcase --type=simple`{{execute}}
 
-2. 安装依赖：`cd showcase && npm i --no-package-lock`{{execute}}
+- 安装依赖：`cd showcase && npm i --no-package-lock`{{execute}}
 
-3. 启动应用：`npm run dev &`{{execute}}
+- 启动应用：`npm run dev &`{{execute}}
 
-4. 点击右边的「访问页面」或执行 `curl https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/`{{execute}}
+- 点击右边的「访问页面」或执行 `curl https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/`{{execute}}
 
 ---
 
