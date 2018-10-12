@@ -6,7 +6,8 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Init",
-      "text": "step1.md"
+      "text": "step1.md",
+      "code": "assets/test.js"
     }, {
       "title": "Step 2 - Controller",
       "text": "step2.md"
