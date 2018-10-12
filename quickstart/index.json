@@ -35,7 +35,7 @@
     "uisettings": "javascript",
     "showdashboard": true,
     "hideintro": true,
-    "hidefinish": true,
+    "hidefinish": false,
     "dashboards": [{
       "name": "访问页面",
       "port": 7001
