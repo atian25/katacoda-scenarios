@@ -11,7 +11,7 @@
     "intro": {
       "text": "intro.md",
       "credits": "",
-      "courseData": "setup.sh"
+      "courseData": "./assets/setup.sh"
     },
     "finish": {
       "text": "finish.md"
