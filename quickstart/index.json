@@ -6,6 +6,7 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Init",
+      "answer": "step1-answer.md",
       "text": "step1.md"
     }, {
       "title": "Step 2 - Controller",
