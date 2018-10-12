@@ -5,8 +5,6 @@
   "time": "1 分钟",
   "details": {
     "steps": [{
-      "text": "step0.md"
-    }, {
       "text": "step1.md"
     }, {
       "text": "step2.md"
@@ -14,7 +12,7 @@
       "text": "step3.md"
     }],
     "intro": {
-      "text": "step0.md",
+      "text": "intro.md",
       "credits": ""
     },
     "finish": {
