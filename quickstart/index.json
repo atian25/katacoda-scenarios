@@ -26,6 +26,9 @@
       }]
     }
   },
+  "files": [
+    "showcase/app/controller/home.js"
+  ],
   "environment": {
     "icon": "fa-node",
     "uilayout": "editor-terminal",
