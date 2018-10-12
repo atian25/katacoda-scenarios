@@ -1,6 +1,6 @@
 # Controller
 
-`Controller` 也叫 『控制器』，负责解析用户的输入，处理后返回相应的结果。
+`Controller` 也叫`控制器`，负责解析用户输入，处理后返回相应的结果。
 
 相关文档：[Egg 文档 - Controller](https://eggjs.app/zh-cn/basics/controller.html)
 
