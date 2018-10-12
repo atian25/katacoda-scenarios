@@ -20,7 +20,7 @@
     },
     "assets": {
       "client": [{
-        "file": "assets/test.js",
+        "file": "./assets/test.js",
         "target": "~/abc"
       }]
     }
