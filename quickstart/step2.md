@@ -4,6 +4,8 @@
 
 相关文档：[Egg 文档 - Controller](https://eggjs.app/zh-cn/basics/controller.html)
 
+---
+
 ## Task
 
 1. 右上的编辑器，打开 `app/controller/home.js` 文件
@@ -11,6 +13,9 @@
 2. 修改下 `ctx.body` 的返回
 
 <pre class="file" data-filename="app.js" data-target="replace">
+
+// app/controller/home.js
+
 const Controller = require('egg').Controller;
 
 class HomeController extends Controller {
