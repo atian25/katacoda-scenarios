@@ -1,4 +1,4 @@
-# 初始化
+# Step 1 - 初始化
 
 我们推荐直接使用脚手架，只需几条简单指令，即可快速生成项目。
 
@@ -14,10 +14,7 @@
 
 4. 点击右边的「访问页面」或执行 `curl https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/`{{execute}}
 
-```bash
-ls
-ll
-```{{execute}}
+---
 
 ## 扩展知识
 
