@@ -19,3 +19,5 @@
 - `npx` 是 Node 新增的指令，可以远程执行一个仓库脚本。
 - 上面我们就是通过远程执行 `egg-init` 这个库来生成示例代码。
 - `npm run dev` 是执行了 `package.json` 里面定义的 `scripts.dev` 指令，调用 `egg-bin dev` 启动了项目。
+
+<div data-katacoda-layout="editor-terminal-split"></div>
