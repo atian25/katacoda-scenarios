@@ -1,3 +1,5 @@
+# 初始化
+
 我们推荐直接使用脚手架，只需几条简单指令，即可快速生成项目。
 
 > 友情提示：下面指令右边有一个「回车 ↩」符号，直接点击即可。
@@ -6,13 +8,13 @@
 
 1. 首先执行脚手架，一路回车：`npx egg-init showcase --type=simple`{{execute}}
 
-2. 安装依赖：`cd showcase && npm i`{{execute}}
+2. 安装依赖：`cd showcase && npm i --no-package-lock`{{execute}}
 
-3. 启动应用：`npm run dev`{{execute}}
+3. 启动应用：`npm run dev &`{{execute}}
 
 4. 访问页面：https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/
 
-5. 或者执行 `curl https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/`{{execute T2}}
+5. 或者执行 `curl https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/`{{execute}}
 
 ## 扩展知识
 
