@@ -8,3 +8,5 @@ Visit https://www.katacoda.com/eggjs to view the profile and interactive scenari
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
 
 For examples, visit https://github.com/katacoda/scenario-example
+
+EggJS
