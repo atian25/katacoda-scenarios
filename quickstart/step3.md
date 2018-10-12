@@ -47,5 +47,5 @@ module.exports = app => {
 
 ## 扩展知识
 
-- Egg 会把 `app/controller` 目录下的文件，映射到 `app.controller.xx` 上
+- `app/controller` 目录下的文件会映射到 `app.controller.xx`
 - 注意：文件名下划线会转换为驼峰，如 `app/controller/admin_list.js -> app.controller.adminList`
