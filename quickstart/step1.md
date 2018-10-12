@@ -12,9 +12,12 @@
 
 3. 启动应用：`npm run dev &`{{execute}}
 
-4. 访问页面：https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/
+4. 点击右边的「访问页面」或执行 `curl https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/`{{execute}}
 
-5. 或者执行 `curl https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/`{{execute}}
+```bash
+ls
+ll
+```
 
 ## 扩展知识
 
