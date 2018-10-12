@@ -15,7 +15,6 @@
 <pre class="file" data-filename="app.js" data-target="replace">
 
 // app/controller/home.js
-
 const Controller = require('egg').Controller;
 
 class HomeController extends Controller {

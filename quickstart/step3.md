@@ -15,7 +15,6 @@
 <pre class="file" data-filename="app.js" data-target="replace">
 
 // app/controller/home.js
-
 const Controller = require('egg').Controller;
 
 class HomeController extends Controller {
@@ -42,7 +41,7 @@ module.exports = app => {
 };
 </pre>
 
-- Egg 会自动重启，然后访问 `https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/time`
+- Egg 会自动重启，然后访问 https://[[HOST_SUBDOMAIN]]-7001-[[KATACODA_HOST]].environments.katacoda.com/time
 
 ---
 
