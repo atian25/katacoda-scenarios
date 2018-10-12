@@ -34,8 +34,6 @@
     "uimessage1": "\u001b[32mWelcome to Egg World, for better Node.js application developement.\u001b[m\r\n",
     "uisettings": "javascript",
     "showdashboard": true,
-    "hideintro": true,
-    "hidefinish": false,
     "dashboards": [{
       "name": "访问页面",
       "port": 7001
