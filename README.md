@@ -9,4 +9,4 @@ Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenar
 
 For examples, visit https://github.com/katacoda/scenario-example
 
-EggJS
+Hello EggJS
