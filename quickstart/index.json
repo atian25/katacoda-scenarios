@@ -22,7 +22,7 @@
   },
   "environment": {
     "icon": "fa-node",
-    "uilayout": "terminal-iframe",
+    "uilayout": "editor-terminal-split",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.Welcome to Egg\u001b[m\r\n",
     "uisettings": "javascript",
     "showdashboard": true,
