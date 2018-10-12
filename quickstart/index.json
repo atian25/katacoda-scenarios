@@ -22,7 +22,7 @@
   },
   "environment": {
     "icon": "fa-node",
-    "uilayout": "editor-terminal-split",
+    "uilayout": "editor-terminal",
     "uimessage1": "\u001b[32mYour Interactive Bash Terminal.Welcome to Egg\u001b[m\r\n",
     "uisettings": "javascript",
     "showdashboard": true,
@@ -33,7 +33,6 @@
     }]
   },
   "backend": {
-    "imageid": "node",
-    "port": 7001
+    "imageid": "node"
   }
 }
