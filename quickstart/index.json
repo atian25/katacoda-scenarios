@@ -17,6 +17,12 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [{
+        "file": "assets/test.js",
+        "target": "~/"
+      }]
     }
   },
   "environment": {
