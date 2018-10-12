@@ -5,8 +5,7 @@
   "time": "1 分钟",
   "details": {
     "steps": [{
-      "title": "QuickStart",
-      "text": "intro.md",
+      "text": "step0.md",
       "credits": ""
     }, {
       "title": "Step 1 - Init",
