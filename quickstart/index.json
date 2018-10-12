@@ -28,7 +28,7 @@
   "environment": {
     "icon": "fa-node",
     "uilayout": "editor-terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.Welcome to Egg\u001b[m\r\n",
+    "uimessage1": "\u001b[32mWelcome to Egg World, for better Node.js application developement.\u001b[m\r\n",
     "uisettings": "javascript",
     "showdashboard": true,
     "hidefinish": true,
