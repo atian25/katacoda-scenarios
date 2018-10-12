@@ -12,7 +12,7 @@ Come on~ 我将带你走入 [Egg](https://eggjs.app/) 的小世界
 相关资讯：
 
 - [官方文档](https://eggjs.app/zh-cn/intro/quickstart.html)
-- [请关注 GitHub](https://github.com/eggjs/egg/)
+- [请关注 GitHub: https://github.com/eggjs/egg](https://github.com/eggjs/egg/)
 
 如果遇到问题：
 
