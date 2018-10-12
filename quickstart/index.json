@@ -21,7 +21,7 @@
     "assets": {
       "client": [{
         "file": "test.js",
-        "target": "~/ab.js"
+        "target": "~/tutorial/ab.js"
       }]
     }
   },
